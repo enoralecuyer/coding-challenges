@@ -14,7 +14,7 @@ What floor does Santa end up on?
 
 ## Question 2
 
-Now, given the same instructions, When does Santa first enter the basement? (floor -1)
+Now, given the same instructions, when does Santa first enter the basement? (floor -1)
 
 ## Puzzle Input
 
